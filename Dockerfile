@@ -18,16 +18,15 @@ RUN python3 setup.py install
 
 WORKDIR /
 
-COPY flow.json /flow.json
-
 RUN npm install node-red wait-on node-red-dashboard -g
 
 ENV NODE_RED_VERSION=$NODE_RED_VERSION \
     NODE_PATH=/usr/src/node-red/node_modules:/data/node_modules \
     PATH=/usr/src/node-red/node_modules/.bin:${PATH}
 
-COPY entrypoint.sh /entrypoint.sh
 
-EXPOSE 1880
+COPY flows.json /flows.json
+
+COPY entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT ["/bin/bash", "entrypoint.sh"]

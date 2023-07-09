@@ -5,6 +5,506 @@
         "label": "Main"
     },
     {
+        "id": "81394fa6.f9523",
+        "type": "ui_group",
+        "name": "Quick Start",
+        "tab": "6529e313.74108c",
+        "order": 1,
+        "disp": true,
+        "width": "6"
+    },
+    {
+        "id": "b642e71.9697318",
+        "type": "ui_group",
+        "name": "1",
+        "tab": "4ede131f.f2e09c",
+        "order": 1,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "b914fb40.bc5c78",
+        "type": "ui_group",
+        "name": "5",
+        "tab": "4ede131f.f2e09c",
+        "order": 5,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "4a85df35.41e16",
+        "type": "ui_group",
+        "name": "6",
+        "tab": "4ede131f.f2e09c",
+        "order": 6,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "19fab5c2.199ffa",
+        "type": "ui_group",
+        "name": "Cloud Settings",
+        "tab": "6529e313.74108c",
+        "order": 2,
+        "disp": true,
+        "width": "6"
+    },
+    {
+        "id": "307e2bd0.e69514",
+        "type": "ui_group",
+        "name": "2",
+        "tab": "4ede131f.f2e09c",
+        "order": 2,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "8de27cf2.dbd6a",
+        "type": "ui_group",
+        "name": "3",
+        "tab": "4ede131f.f2e09c",
+        "order": 3,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "b8d3bbbf.2c9cb8",
+        "type": "ui_group",
+        "name": "4",
+        "tab": "4ede131f.f2e09c",
+        "order": 4,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "ab6da67f.a47fa8",
+        "type": "ui_group",
+        "name": "8",
+        "tab": "4ede131f.f2e09c",
+        "order": 8,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "a510f969.f28538",
+        "type": "ui_group",
+        "name": "7",
+        "tab": "4ede131f.f2e09c",
+        "order": 7,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "82607108.c5be8",
+        "type": "ui_group",
+        "name": "Tilt Settings",
+        "tab": "6529e313.74108c",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "eb4ab3d5.7b3f1",
+        "type": "ui_group",
+        "name": "Select Tilt in Range",
+        "tab": "75f710f5.16d2e",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "f1b2ab0a.9118e8",
+        "type": "ui_group",
+        "name": "Dashboard Link (local URL)",
+        "tab": "c9c26b4a.4cde78",
+        "order": 7,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "b0619070.ac95d",
+        "type": "ui_group",
+        "name": "Tilt Display Units",
+        "tab": "c9c26b4a.4cde78",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2f8a7619.951f3a",
+        "type": "ui_group",
+        "name": "Filter Tilt by RSSI",
+        "tab": "c9c26b4a.4cde78",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "267d3836.6dd8c8",
+        "type": "ui_group",
+        "name": "9",
+        "tab": "4ede131f.f2e09c",
+        "order": 9,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "108bd956.936727",
+        "type": "ui_group",
+        "name": "10",
+        "tab": "4ede131f.f2e09c",
+        "order": 10,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "a50556b1.dbfcb8",
+        "type": "ui_group",
+        "name": "11",
+        "tab": "4ede131f.f2e09c",
+        "order": 11,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "5c7445d4.98ad6c",
+        "type": "ui_group",
+        "name": "12",
+        "tab": "4ede131f.f2e09c",
+        "order": 12,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "12fd05d8.05d72a",
+        "type": "ui_group",
+        "name": "13",
+        "tab": "4ede131f.f2e09c",
+        "order": 13,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "4c37ac06.315ed4",
+        "type": "ui_group",
+        "name": "14",
+        "tab": "4ede131f.f2e09c",
+        "order": 14,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "e45abb75.3c20e8",
+        "type": "ui_group",
+        "name": "15",
+        "tab": "4ede131f.f2e09c",
+        "order": 15,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "15de3d7c.511dc3",
+        "type": "ui_group",
+        "name": "16",
+        "tab": "4ede131f.f2e09c",
+        "order": 16,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "819bc8e0.bcd088",
+        "type": "ui_group",
+        "name": "17",
+        "tab": "4ede131f.f2e09c",
+        "order": 17,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "fc7d68d0.753128",
+        "type": "ui_group",
+        "name": "18",
+        "tab": "4ede131f.f2e09c",
+        "order": 18,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "bd62ad81.4b044",
+        "type": "ui_group",
+        "name": "19",
+        "tab": "4ede131f.f2e09c",
+        "order": 19,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "41d62802.51c5b8",
+        "type": "ui_group",
+        "name": "20",
+        "tab": "4ede131f.f2e09c",
+        "order": 20,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "44534105.db4bc",
+        "type": "ui_group",
+        "name": "21",
+        "tab": "4ede131f.f2e09c",
+        "order": 21,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "51d09488.cc74ec",
+        "type": "ui_group",
+        "name": "22",
+        "tab": "4ede131f.f2e09c",
+        "order": 22,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "401076ab.e74368",
+        "type": "ui_group",
+        "name": "23",
+        "tab": "4ede131f.f2e09c",
+        "order": 23,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "e317dbe5.cb4a88",
+        "type": "ui_group",
+        "name": "24",
+        "tab": "4ede131f.f2e09c",
+        "order": 24,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "cc24e60a.97bf38",
+        "type": "ui_group",
+        "name": "25",
+        "tab": "4ede131f.f2e09c",
+        "order": 25,
+        "disp": false,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "1b53fa80.bc1576",
+        "type": "ui_group",
+        "name": "Identify Tilt by MAC Address",
+        "tab": "c9c26b4a.4cde78",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "c794b7cd.ac92b8",
+        "type": "ui_group",
+        "name": "Tilt Measurement Smoothing",
+        "tab": "c9c26b4a.4cde78",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "6acae0b0.a184",
+        "type": "ui_group",
+        "name": "Specific Gravity Calibration",
+        "tab": "75f710f5.16d2e",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "c12bcb12.dbd0d8",
+        "type": "ui_group",
+        "name": "Temperature Calibration",
+        "tab": "75f710f5.16d2e",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "90501bee.89d8c8",
+        "type": "ui_group",
+        "name": "Boost Range with Mulitple Tilt Pi's",
+        "tab": "c9c26b4a.4cde78",
+        "order": 8,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "6529e313.74108c",
+        "type": "ui_tab",
+        "name": "Logging",
+        "icon": "fa-line-chart",
+        "order": 2
+    },
+    {
+        "id": "4ede131f.f2e09c",
+        "type": "ui_tab",
+        "name": "Tilt UI",
+        "icon": "fa-tachometer",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "75f710f5.16d2e",
+        "type": "ui_tab",
+        "name": "Calibration",
+        "icon": "fa-bullseye",
+        "order": 3
+    },
+    {
+        "id": "c9c26b4a.4cde78",
+        "type": "ui_tab",
+        "name": "System",
+        "icon": "fa-clock-o",
+        "order": 4
+    },
+    {
+        "id": "461cf36043abfc78",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Default",
+                "default": "#4B7930",
+                "baseColor": "#666666",
+                "baseFont": "Tahoma,Geneva,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#4B7930",
+                    "value": "#666666",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#666666",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#8c8c8c",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#336633",
+                    "edited": true
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Tahoma,Geneva,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 53,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "8871d8bef9ab22e5",
+        "type": "ui_link",
+        "name": "Tilt Shop",
+        "link": "http://tilthydrometer.com",
+        "icon": "open_in_browser",
+        "target": "newtab",
+        "order": 5
+    },
+    {
         "id": "f42fdaab.48a078",
         "type": "inject",
         "z": "a564595f.642818",
@@ -1157,9 +1657,12 @@
         "type": "function",
         "z": "a564595f.642818",
         "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
         "outputs": 1,
         "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
         "x": 2610,
         "y": 140,
         "wires": [
@@ -1250,23 +1753,7 @@
         "y": 180,
         "wires": [
             [
-                "c9e125df.66b318"
-            ]
-        ]
-    },
-    {
-        "id": "c9e125df.66b318",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 180,
-        "wires": [
-            [
-                "4dbe6177.1028"
+                "407e2ff25175a5c8"
             ]
         ]
     },
@@ -1293,23 +1780,7 @@
         "y": 220,
         "wires": [
             [
-                "3fc07c6.f563084"
-            ]
-        ]
-    },
-    {
-        "id": "3fc07c6.f563084",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 220,
-        "wires": [
-            [
-                "7c6f1c01.297234"
+                "88e24b52ba0cbdf2"
             ]
         ]
     },
@@ -1336,23 +1807,7 @@
         "y": 300,
         "wires": [
             [
-                "a6fc7026.3943f"
-            ]
-        ]
-    },
-    {
-        "id": "a6fc7026.3943f",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 300,
-        "wires": [
-            [
-                "79bac478.35317c"
+                "0097e9fdeeb4804b"
             ]
         ]
     },
@@ -1379,23 +1834,7 @@
         "y": 340,
         "wires": [
             [
-                "822668cd.451b98"
-            ]
-        ]
-    },
-    {
-        "id": "822668cd.451b98",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 340,
-        "wires": [
-            [
-                "e0d6a855.d4e018"
+                "43efea9a488df810"
             ]
         ]
     },
@@ -1444,23 +1883,7 @@
         "y": 260,
         "wires": [
             [
-                "10fa6d83.b3b1b2"
-            ]
-        ]
-    },
-    {
-        "id": "10fa6d83.b3b1b2",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 260,
-        "wires": [
-            [
-                "dd81e411.1cdd78"
+                "6fd6b708267357eb"
             ]
         ]
     },
@@ -1548,23 +1971,7 @@
         "y": 420,
         "wires": [
             [
-                "ba5663bf.b7cd6"
-            ]
-        ]
-    },
-    {
-        "id": "ba5663bf.b7cd6",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 420,
-        "wires": [
-            [
-                "228b94fc.188afc"
+                "2e2c3b37d1efe22d"
             ]
         ]
     },
@@ -1613,23 +2020,7 @@
         "y": 380,
         "wires": [
             [
-                "68f079f0.789e18"
-            ]
-        ]
-    },
-    {
-        "id": "68f079f0.789e18",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 380,
-        "wires": [
-            [
-                "2cbc023f.86f2de"
+                "60e63e4d504aedf7"
             ]
         ]
     },
@@ -2387,9 +2778,14 @@
         "width": 0,
         "height": 0,
         "name": "",
-        "label": "Tilt Pi Local IP Address Link",
+        "label": "Tilt UI Local IP Address Link",
         "format": "{{msg.payload}}",
         "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
         "x": 887,
         "y": 4225.5,
         "wires": []
@@ -3812,7 +4208,7 @@
         "type": "debug",
         "z": "a564595f.642818",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -4369,23 +4765,7 @@
         "y": 460,
         "wires": [
             [
-                "23acb7c8.0f4fa8"
-            ]
-        ]
-    },
-    {
-        "id": "23acb7c8.0f4fa8",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 460,
-        "wires": [
-            [
-                "b0c871ee.825fa"
+                "3427af6e02648a6e"
             ]
         ]
     },
@@ -4434,22 +4814,6 @@
         ]
     },
     {
-        "id": "69c80d48.ff3944",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 500,
-        "wires": [
-            [
-                "1b07d15a.22721f"
-            ]
-        ]
-    },
-    {
         "id": "a388c3a2.eac4d",
         "type": "change",
         "z": "a564595f.642818",
@@ -4472,7 +4836,7 @@
         "y": 500,
         "wires": [
             [
-                "69c80d48.ff3944"
+                "e769cb28a4529ef6"
             ]
         ]
     },
@@ -4519,22 +4883,6 @@
         ]
     },
     {
-        "id": "9292de64.9ae",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 540,
-        "wires": [
-            [
-                "d85b1a06.40d7c8"
-            ]
-        ]
-    },
-    {
         "id": "720fd272.1a56cc",
         "type": "change",
         "z": "a564595f.642818",
@@ -4557,7 +4905,7 @@
         "y": 540,
         "wires": [
             [
-                "9292de64.9ae"
+                "71936524449e7c6f"
             ]
         ]
     },
@@ -4604,22 +4952,6 @@
         ]
     },
     {
-        "id": "4b54d3d8.c7a56c",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 580,
-        "wires": [
-            [
-                "c3e65142.1abc1"
-            ]
-        ]
-    },
-    {
         "id": "99a8c422.9a5d18",
         "type": "change",
         "z": "a564595f.642818",
@@ -4642,7 +4974,7 @@
         "y": 580,
         "wires": [
             [
-                "4b54d3d8.c7a56c"
+                "7b05daeb91d95dbd"
             ]
         ]
     },
@@ -4689,22 +5021,6 @@
         ]
     },
     {
-        "id": "6fbf3d7b.557c44",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 640,
-        "wires": [
-            [
-                "b7987897.334ee8"
-            ]
-        ]
-    },
-    {
         "id": "4d34d92a.daacb8",
         "type": "change",
         "z": "a564595f.642818",
@@ -4727,7 +5043,7 @@
         "y": 640,
         "wires": [
             [
-                "6fbf3d7b.557c44"
+                "05654fa0226a30f8"
             ]
         ]
     },
@@ -4774,22 +5090,6 @@
         ]
     },
     {
-        "id": "adb9f508.09beb8",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 680,
-        "wires": [
-            [
-                "50c01cc7.5c7ce4"
-            ]
-        ]
-    },
-    {
         "id": "bf999e86.007a",
         "type": "change",
         "z": "a564595f.642818",
@@ -4812,7 +5112,7 @@
         "y": 680,
         "wires": [
             [
-                "adb9f508.09beb8"
+                "40dd307d1b347843"
             ]
         ]
     },
@@ -4859,22 +5159,6 @@
         ]
     },
     {
-        "id": "56b1aaf6.963794",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 720,
-        "wires": [
-            [
-                "96fc73f7.4aedf"
-            ]
-        ]
-    },
-    {
         "id": "302c41e1.93c55e",
         "type": "change",
         "z": "a564595f.642818",
@@ -4897,7 +5181,7 @@
         "y": 720,
         "wires": [
             [
-                "56b1aaf6.963794"
+                "4b43e4f579335ff7"
             ]
         ]
     },
@@ -4944,22 +5228,6 @@
         ]
     },
     {
-        "id": "f158029e.ab5ad",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 760,
-        "wires": [
-            [
-                "2c830d1d.47a5c2"
-            ]
-        ]
-    },
-    {
         "id": "bf4e38c5.6b64e8",
         "type": "change",
         "z": "a564595f.642818",
@@ -4982,7 +5250,7 @@
         "y": 760,
         "wires": [
             [
-                "f158029e.ab5ad"
+                "0da78b068b0d1319"
             ]
         ]
     },
@@ -5029,22 +5297,6 @@
         ]
     },
     {
-        "id": "52a8aa48.8cbb84",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 800,
-        "wires": [
-            [
-                "9fb8659c.72a988"
-            ]
-        ]
-    },
-    {
         "id": "5e446f27.4b485",
         "type": "change",
         "z": "a564595f.642818",
@@ -5067,7 +5319,7 @@
         "y": 800,
         "wires": [
             [
-                "52a8aa48.8cbb84"
+                "ae46fbe2a4c4785d"
             ]
         ]
     },
@@ -5114,22 +5366,6 @@
         ]
     },
     {
-        "id": "ee3d5711.f574e8",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 840,
-        "wires": [
-            [
-                "fad59c31.459a5"
-            ]
-        ]
-    },
-    {
         "id": "57519e88.1b6e3",
         "type": "change",
         "z": "a564595f.642818",
@@ -5152,7 +5388,7 @@
         "y": 840,
         "wires": [
             [
-                "ee3d5711.f574e8"
+                "efb80858062248c5"
             ]
         ]
     },
@@ -5199,22 +5435,6 @@
         ]
     },
     {
-        "id": "4eddc4d8.fd628c",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 880,
-        "wires": [
-            [
-                "2d9318ec.26fb18"
-            ]
-        ]
-    },
-    {
         "id": "8d67d3dc.c514e",
         "type": "change",
         "z": "a564595f.642818",
@@ -5237,7 +5457,7 @@
         "y": 880,
         "wires": [
             [
-                "4eddc4d8.fd628c"
+                "eee8e3288123fa3b"
             ]
         ]
     },
@@ -5284,22 +5504,6 @@
         ]
     },
     {
-        "id": "5fc1729f.da123c",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 920,
-        "wires": [
-            [
-                "e58cff3a.8f6cd"
-            ]
-        ]
-    },
-    {
         "id": "ca4b0ee0.4371d",
         "type": "change",
         "z": "a564595f.642818",
@@ -5322,7 +5526,7 @@
         "y": 920,
         "wires": [
             [
-                "5fc1729f.da123c"
+                "b748d38e5dd996e5"
             ]
         ]
     },
@@ -5522,23 +5726,7 @@
         "y": 960,
         "wires": [
             [
-                "6b2630c1.ee399"
-            ]
-        ]
-    },
-    {
-        "id": "6b2630c1.ee399",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 960,
-        "wires": [
-            [
-                "cf792291.cb942"
+                "bd7676bad7db5870"
             ]
         ]
     },
@@ -5632,23 +5820,7 @@
         "y": 1000,
         "wires": [
             [
-                "6b914e1.9bb8eb"
-            ]
-        ]
-    },
-    {
-        "id": "6b914e1.9bb8eb",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 1000,
-        "wires": [
-            [
-                "a68bf66a.5f1538"
+                "6374f77807ad6b47"
             ]
         ]
     },
@@ -5742,23 +5914,7 @@
         "y": 1040,
         "wires": [
             [
-                "c3bb0e8a.e2ea3"
-            ]
-        ]
-    },
-    {
-        "id": "c3bb0e8a.e2ea3",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 1040,
-        "wires": [
-            [
-                "9d398dc.08dc57"
+                "016a8e69c8f269c2"
             ]
         ]
     },
@@ -5852,23 +6008,7 @@
         "y": 1080,
         "wires": [
             [
-                "6d524c1c.8009f4"
-            ]
-        ]
-    },
-    {
-        "id": "6d524c1c.8009f4",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 1080,
-        "wires": [
-            [
-                "96d4a8e7.f414a8"
+                "c7c52c42fb059b04"
             ]
         ]
     },
@@ -5962,23 +6102,7 @@
         "y": 1120,
         "wires": [
             [
-                "4200342b.ee6e5c"
-            ]
-        ]
-    },
-    {
-        "id": "4200342b.ee6e5c",
-        "type": "function",
-        "z": "a564595f.642818",
-        "name": "check",
-        "func": "if(msg.payload === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 2610,
-        "y": 1120,
-        "wires": [
-            [
-                "b8172640.fdaf28"
+                "117ce2fbc4696dca"
             ]
         ]
     },
@@ -7902,391 +8026,459 @@
         ]
     },
     {
-        "id": "81394fa6.f9523",
-        "type": "ui_group",
-        "name": "Quick Start",
-        "tab": "6529e313.74108c",
-        "order": 1,
-        "disp": true,
-        "width": "6"
+        "id": "407e2ff25175a5c8",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 180,
+        "wires": [
+            [
+                "4dbe6177.1028"
+            ]
+        ]
     },
     {
-        "id": "b642e71.9697318",
-        "type": "ui_group",
-        "name": "1",
-        "tab": "4ede131f.f2e09c",
-        "order": 1,
-        "disp": false,
-        "width": "6"
+        "id": "88e24b52ba0cbdf2",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 220,
+        "wires": [
+            [
+                "7c6f1c01.297234"
+            ]
+        ]
     },
     {
-        "id": "b914fb40.bc5c78",
-        "type": "ui_group",
-        "name": "5",
-        "tab": "4ede131f.f2e09c",
-        "order": 5,
-        "disp": false,
-        "width": "6"
+        "id": "6fd6b708267357eb",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 260,
+        "wires": [
+            [
+                "dd81e411.1cdd78"
+            ]
+        ]
     },
     {
-        "id": "4a85df35.41e16",
-        "type": "ui_group",
-        "name": "6",
-        "tab": "4ede131f.f2e09c",
-        "order": 6,
-        "disp": false,
-        "width": "6"
+        "id": "0097e9fdeeb4804b",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 300,
+        "wires": [
+            [
+                "79bac478.35317c"
+            ]
+        ]
     },
     {
-        "id": "19fab5c2.199ffa",
-        "type": "ui_group",
-        "name": "Cloud Settings",
-        "tab": "6529e313.74108c",
-        "order": 2,
-        "disp": true,
-        "width": "6"
+        "id": "43efea9a488df810",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 340,
+        "wires": [
+            [
+                "e0d6a855.d4e018"
+            ]
+        ]
     },
     {
-        "id": "307e2bd0.e69514",
-        "type": "ui_group",
-        "name": "2",
-        "tab": "4ede131f.f2e09c",
-        "order": 2,
-        "disp": false,
-        "width": "6"
+        "id": "60e63e4d504aedf7",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 380,
+        "wires": [
+            [
+                "2cbc023f.86f2de"
+            ]
+        ]
     },
     {
-        "id": "8de27cf2.dbd6a",
-        "type": "ui_group",
-        "name": "3",
-        "tab": "4ede131f.f2e09c",
-        "order": 3,
-        "disp": false,
-        "width": "6"
+        "id": "2e2c3b37d1efe22d",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 420,
+        "wires": [
+            [
+                "228b94fc.188afc"
+            ]
+        ]
     },
     {
-        "id": "b8d3bbbf.2c9cb8",
-        "type": "ui_group",
-        "name": "4",
-        "tab": "4ede131f.f2e09c",
-        "order": 4,
-        "disp": false,
-        "width": "6"
+        "id": "3427af6e02648a6e",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 460,
+        "wires": [
+            [
+                "b0c871ee.825fa"
+            ]
+        ]
     },
     {
-        "id": "ab6da67f.a47fa8",
-        "type": "ui_group",
-        "name": "8",
-        "tab": "4ede131f.f2e09c",
-        "order": 8,
-        "disp": false,
-        "width": "6"
+        "id": "e769cb28a4529ef6",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 500,
+        "wires": [
+            [
+                "1b07d15a.22721f"
+            ]
+        ]
     },
     {
-        "id": "a510f969.f28538",
-        "type": "ui_group",
-        "name": "7",
-        "tab": "4ede131f.f2e09c",
-        "order": 7,
-        "disp": false,
-        "width": "6"
+        "id": "71936524449e7c6f",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 540,
+        "wires": [
+            [
+                "d85b1a06.40d7c8"
+            ]
+        ]
     },
     {
-        "id": "82607108.c5be8",
-        "type": "ui_group",
-        "name": "Tilt Pi Settings",
-        "tab": "6529e313.74108c",
-        "order": 3,
-        "disp": true,
-        "width": "6"
+        "id": "7b05daeb91d95dbd",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 580,
+        "wires": [
+            [
+                "c3e65142.1abc1"
+            ]
+        ]
     },
     {
-        "id": "eb4ab3d5.7b3f1",
-        "type": "ui_group",
-        "name": "Select Tilt in Range",
-        "tab": "75f710f5.16d2e",
-        "order": 1,
-        "disp": true,
-        "width": "6",
-        "collapse": false
+        "id": "05654fa0226a30f8",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 640,
+        "wires": [
+            [
+                "b7987897.334ee8"
+            ]
+        ]
     },
     {
-        "id": "f1b2ab0a.9118e8",
-        "type": "ui_group",
-        "name": "Dashboard Link (local URL)",
-        "tab": "c9c26b4a.4cde78",
-        "order": 7,
-        "disp": true,
-        "width": "6",
-        "collapse": false
+        "id": "40dd307d1b347843",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 680,
+        "wires": [
+            [
+                "50c01cc7.5c7ce4"
+            ]
+        ]
     },
     {
-        "id": "b0619070.ac95d",
-        "type": "ui_group",
-        "name": "Tilt Pi Display Units",
-        "tab": "c9c26b4a.4cde78",
-        "order": 2,
-        "disp": true,
-        "width": "6"
+        "id": "4b43e4f579335ff7",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 720,
+        "wires": [
+            [
+                "96fc73f7.4aedf"
+            ]
+        ]
     },
     {
-        "id": "2f8a7619.951f3a",
-        "type": "ui_group",
-        "name": "Filter Tilt by RSSI",
-        "tab": "c9c26b4a.4cde78",
-        "order": 4,
-        "disp": true,
-        "width": "6",
-        "collapse": false
+        "id": "0da78b068b0d1319",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 760,
+        "wires": [
+            [
+                "2c830d1d.47a5c2"
+            ]
+        ]
     },
     {
-        "id": "267d3836.6dd8c8",
-        "type": "ui_group",
-        "name": "9",
-        "tab": "4ede131f.f2e09c",
-        "order": 9,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "ae46fbe2a4c4785d",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 800,
+        "wires": [
+            [
+                "9fb8659c.72a988"
+            ]
+        ]
     },
     {
-        "id": "108bd956.936727",
-        "type": "ui_group",
-        "name": "10",
-        "tab": "4ede131f.f2e09c",
-        "order": 10,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "efb80858062248c5",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 840,
+        "wires": [
+            [
+                "fad59c31.459a5"
+            ]
+        ]
     },
     {
-        "id": "a50556b1.dbfcb8",
-        "type": "ui_group",
-        "name": "11",
-        "tab": "4ede131f.f2e09c",
-        "order": 11,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "eee8e3288123fa3b",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 880,
+        "wires": [
+            [
+                "2d9318ec.26fb18"
+            ]
+        ]
     },
     {
-        "id": "5c7445d4.98ad6c",
-        "type": "ui_group",
-        "name": "12",
-        "tab": "4ede131f.f2e09c",
-        "order": 12,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "b748d38e5dd996e5",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 920,
+        "wires": [
+            [
+                "e58cff3a.8f6cd"
+            ]
+        ]
     },
     {
-        "id": "12fd05d8.05d72a",
-        "type": "ui_group",
-        "name": "13",
-        "tab": "4ede131f.f2e09c",
-        "order": 13,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "bd7676bad7db5870",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 960,
+        "wires": [
+            [
+                "cf792291.cb942"
+            ]
+        ]
     },
     {
-        "id": "4c37ac06.315ed4",
-        "type": "ui_group",
-        "name": "14",
-        "tab": "4ede131f.f2e09c",
-        "order": 14,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "6374f77807ad6b47",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 1000,
+        "wires": [
+            [
+                "a68bf66a.5f1538"
+            ]
+        ]
     },
     {
-        "id": "e45abb75.3c20e8",
-        "type": "ui_group",
-        "name": "15",
-        "tab": "4ede131f.f2e09c",
-        "order": 15,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "016a8e69c8f269c2",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 1040,
+        "wires": [
+            [
+                "9d398dc.08dc57"
+            ]
+        ]
     },
     {
-        "id": "15de3d7c.511dc3",
-        "type": "ui_group",
-        "name": "16",
-        "tab": "4ede131f.f2e09c",
-        "order": 16,
-        "disp": false,
-        "width": "6",
-        "collapse": false
+        "id": "c7c52c42fb059b04",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 1080,
+        "wires": [
+            [
+                "96d4a8e7.f414a8"
+            ]
+        ]
     },
     {
-        "id": "819bc8e0.bcd088",
-        "type": "ui_group",
-        "name": "17",
-        "tab": "4ede131f.f2e09c",
-        "order": 17,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "fc7d68d0.753128",
-        "type": "ui_group",
-        "name": "18",
-        "tab": "4ede131f.f2e09c",
-        "order": 18,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "bd62ad81.4b044",
-        "type": "ui_group",
-        "name": "19",
-        "tab": "4ede131f.f2e09c",
-        "order": 19,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "41d62802.51c5b8",
-        "type": "ui_group",
-        "name": "20",
-        "tab": "4ede131f.f2e09c",
-        "order": 20,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "44534105.db4bc",
-        "type": "ui_group",
-        "name": "21",
-        "tab": "4ede131f.f2e09c",
-        "order": 21,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "51d09488.cc74ec",
-        "type": "ui_group",
-        "name": "22",
-        "tab": "4ede131f.f2e09c",
-        "order": 22,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "401076ab.e74368",
-        "type": "ui_group",
-        "name": "23",
-        "tab": "4ede131f.f2e09c",
-        "order": 23,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "e317dbe5.cb4a88",
-        "type": "ui_group",
-        "name": "24",
-        "tab": "4ede131f.f2e09c",
-        "order": 24,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "cc24e60a.97bf38",
-        "type": "ui_group",
-        "name": "25",
-        "tab": "4ede131f.f2e09c",
-        "order": 25,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "1b53fa80.bc1576",
-        "type": "ui_group",
-        "name": "Identify Tilt by MAC Address",
-        "tab": "c9c26b4a.4cde78",
-        "order": 5,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "c794b7cd.ac92b8",
-        "type": "ui_group",
-        "name": "Tilt Measurement Smoothing",
-        "tab": "c9c26b4a.4cde78",
-        "order": 3,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "6acae0b0.a184",
-        "type": "ui_group",
-        "name": "Specific Gravity Calibration",
-        "tab": "75f710f5.16d2e",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "c12bcb12.dbd0d8",
-        "type": "ui_group",
-        "name": "Temperature Calibration",
-        "tab": "75f710f5.16d2e",
-        "order": 4,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "90501bee.89d8c8",
-        "type": "ui_group",
-        "name": "Boost Range with Mulitple Tilt Pi's",
-        "tab": "c9c26b4a.4cde78",
-        "order": 8,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "6529e313.74108c",
-        "type": "ui_tab",
-        "name": "Logging",
-        "icon": "fa-line-chart",
-        "order": 3
-    },
-    {
-        "id": "4ede131f.f2e09c",
-        "type": "ui_tab",
-        "name": "Tilt Pi",
-        "icon": "fa-tachometer",
-        "order": 1,
-        "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "75f710f5.16d2e",
-        "type": "ui_tab",
-        "name": "Calibration",
-        "icon": "fa-bullseye",
-        "order": 4
-    },
-    {
-        "id": "c9c26b4a.4cde78",
-        "type": "ui_tab",
-        "name": "System",
-        "icon": "fa-clock-o",
-        "order": 5
+        "id": "117ce2fbc4696dca",
+        "type": "function",
+        "z": "a564595f.642818",
+        "name": "check",
+        "func": "if(msg.payload === undefined || msg.payload.Color === undefined){\n msg.payload = {};\n msg.show = \"hidden\";\n msg.topic = \"hidden\";\n return msg;   \n}\nvar displayTimeout = flow.get('displayTimeout')||120000;\n//set msg.topic for use in displaying the correct color\nmsg.topic = msg.payload.Color;\n//reorder list if a Tilt disconnects\nif (msg.payload.clock - msg.payload.timeStamp > displayTimeout){\n flow.set('storage-1',undefined);\n flow.set('storage-2',undefined);\n flow.set('storage-3',undefined);\n flow.set('storage-4',undefined);\n flow.set('storage-5',undefined);\n flow.set('storage-6',undefined);\n flow.set('storage-7',undefined);\n flow.set('storage-8',undefined);\n flow.set('storage-9',undefined);\n flow.set('storage-10',undefined);\n flow.set('storage-11',undefined);\n flow.set('storage-12',undefined);\n flow.set('storage-13',undefined);\n flow.set('storage-14',undefined);\n flow.set('storage-15',undefined);\n flow.set('storage-16',undefined);\n flow.set('storage-17',undefined);\n flow.set('storage-18',undefined);\n flow.set('storage-19',undefined);\n flow.set('storage-20',undefined);\n flow.set('storage-21',undefined);\n flow.set('storage-22',undefined);\n flow.set('storage-23',undefined);\n flow.set('storage-24',undefined);\n flow.set('storage-25',undefined);\n flow.set('options',[]);\n if (msg.topic === flow.get('colordropdownSelect')){\n     flow.set('colordropdownSelect',undefined);\n }\n msg.show = \"hidden\";\n return msg;\n}\nelse{\n msg.show = \"visible\";\n return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2610,
+        "y": 1120,
+        "wires": [
+            [
+                "b8172640.fdaf28"
+            ]
+        ]
     }
 ]
