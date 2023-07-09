@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -m
-
 service dbus start
 bluetoothd &
 
@@ -11,8 +9,4 @@ then
     mv /flows.json /data/flows.json    
 fi
 
-node-red --userDir /data &
-
-
-# load flow
-fg %2
+node-red --userDir /data

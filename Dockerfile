@@ -18,7 +18,7 @@ RUN python3 setup.py install
 
 WORKDIR /
 
-RUN npm install node-red wait-on node-red-dashboard -g
+RUN npm install node-red node-red-dashboard -g
 
 ENV NODE_RED_VERSION=$NODE_RED_VERSION \
     NODE_PATH=/usr/src/node-red/node_modules:/data/node_modules \
