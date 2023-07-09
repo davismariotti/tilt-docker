@@ -1,5 +1,7 @@
 # Instructions for running TiltPi Docker
 
+This was built using flows from [TiltPi](https://github.com/baronbrew/TILTpi/).
+
 ## Docker run
 
 ```
@@ -10,10 +12,16 @@ docker run -d \
 --cap-add=NET_ADMIN \
 --device=/dev/bus/usb/001/011 \
 -e TZ="America/Los_Angeles" \
--e TCP_PORT_1881=1881 \
--v /mnt/user/appdata/tilt:/data \
+-e PORT=1881 \
+-v tilt-data:/data \
 davismariotti/tiltpi-docker:1.0
 ```
+`--device` is only necessary if using a Bluetooth USB dongle.
+
+
+`TZ` can be set to any identifier found [here](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
+
+`PORT` is optional, useful if another instance of Node-Red is running
 
 ## Docker compose
 ```
@@ -29,8 +37,8 @@ services:
     devices:
       - /dev/bus/usb/001/011
     volumes:
-      - /mnt/user/appdata/tilt:/data
+      - tilt-data:/data
     environment:
       TZ: "America/Los_Angeles"
-      TCP_PORT_1881: 1881
+      PORT: 1881 # Optional
 ```
