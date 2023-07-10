@@ -13,7 +13,7 @@ docker run -d \
 -e TZ="America/Los_Angeles" \
 -e PORT=1881 \
 -v tilt-data:/data \
-davismariotti/tiltpi-docker:1.0
+davismariotti/tiltpi-docker
 ```
 `--device` is only necessary if using a Bluetooth USB dongle.
 
@@ -27,7 +27,7 @@ davismariotti/tiltpi-docker:1.0
 version: "2"
 services:
   tiltpi:
-    image: davismariotti/tiltpi-docker:1.0
+    image: davismariotti/tiltpi-docker
     container_name: TiltPi
     network_mode: host
     cap_add:
