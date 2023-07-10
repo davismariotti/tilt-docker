@@ -1,10 +1,17 @@
-FROM node:16
+FROM node:16.3.0-alpine
 
 ENV TZ=America/Los_Angeles
 
-RUN apt-get update
-
-RUN apt-get install -y bluez bluez-tools bluez-hcidump bluetooth unzip wget usbutils git python3.7 tzdata
+RUN set -ex && \
+    apk add --no-cache \
+    bluez \
+    unzip \
+    wget \
+    usbutils \
+    python3 \
+    tzdata \
+    bash \
+    openrc
 
 RUN npm config set cache /data/.npm --global
 

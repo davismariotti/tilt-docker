@@ -1,7 +1,7 @@
 #!/bin/bash
 
-service dbus start
-bluetoothd &
+rc-service dbus start
+rc-service bluetooth start
 
 
 if [ ! -f /data/flows.json ]
