@@ -8,7 +8,6 @@ This was built using flows from [TiltPi](https://github.com/baronbrew/TILTpi/).
 docker run -d \
 --name=TiltPi \
 --net=host \
---privileged=true \
 --cap-add=NET_ADMIN \
 --device=/dev/bus/usb/001/011 \
 -e TZ="America/Los_Angeles" \
@@ -30,7 +29,6 @@ services:
   tiltpi:
     image: davismariotti/tiltpi-docker:1.0
     container_name: TiltPi
-    privileged: true
     network_mode: host
     cap_add:
       - NET_ADMIN
